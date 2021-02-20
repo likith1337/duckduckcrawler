@@ -1,1 +1,2 @@
 # duckduckcrawler
+*/*Not the Indexer

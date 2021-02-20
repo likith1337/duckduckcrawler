@@ -1,2 +1,2 @@
 # duckduckcrawler
-*/*Not the Indexer
+*Not the Indexer

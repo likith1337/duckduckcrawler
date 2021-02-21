@@ -2,4 +2,4 @@
 *Not the Indexer / duckduckbot
 
 Under active develpment 
-Realse before 28 February 2021
+Release before 28 February 2021
